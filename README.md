@@ -1,5 +1,9 @@
 ### Hi there 👋
+### I'm Muhammad Aqiil Fauzaan
 
+- 📫 How to reach me: muhammadaqiilfauzaan2004@mail.ugm.ac.id
+- 🌱 I’m currently learning UI/UX and Web Development
+- 📝 Here are my experiences: https://bit.ly/CV_MuhammadAqiilFauzaan
 <!--
 **fauzaan97/fauzaan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
